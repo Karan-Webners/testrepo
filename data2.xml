@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Creating an xml practice app-->
+<Stdents>
+  <student id="101">
+    <Name>Mark</Name>
+    <Gender>male</Gender>
+    <Marks>200</Marks>
+  </student>
+  <student id="102">
+    <Name>emly</Name>
+    <Gender>female</Gender>
+    <Marks>250</Marks>
+  </student>
+  <student id="103">
+    <Name>rishi</Name>
+    <Gender>male</Gender>
+    <Marks>230</Marks>
+  </student>
+</Stdents>
