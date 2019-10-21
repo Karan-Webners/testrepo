@@ -1,0 +1,2584 @@
+SOURCE
+
+
+
+
+
+
+
+
+
+    <State>Maryland</State>
+    <Zip>21042</Zip>
+    <County>Howard</County>
+  </ContactInfo>
+  <PersonInfo>
+    <Relationship>Self</Relationship>
+    <Gender>M</Gender>
+    <BirthDt>1970-01-01T12:00:00</BirthDt>
+    <MaritalStatus>Single</MaritalStatus>
+    <Occupation>ADM</Occupation>
+    <OccupationLength>3</OccupationLength>
+    <Education>BachelorsDegree</Education>
+    <Military>No Military Experience</Military>
+    <SelfCreditRating>Average</SelfCreditRating>
+    <ConsentToOrderCredit>NA</ConsentToOrderCredit>
+  </PersonInfo>
+  <InsuranceInfo>
+    <CurrentlyInsured>Yes</CurrentlyInsured>
+    <CurrentInsurerName>Farmers Insurance Group</CurrentInsurerName>
+    <CurrentMonthsWithInsurer>36</CurrentMonthsWithInsurer>
+    <CurrentPolicyExpirationDt>2019-10-10T03:12:33</CurrentPolicyExpirationDt>
+    <RequestedCoverageAmount>350000</RequestedCoverageAmount>
+    <RequestedDeductible>500</RequestedDeductible>
+    <RequestedPersonalLiability>100000</RequestedPersonalLiability>
+  </InsuranceInfo>
+  <ResidenceInfo>
+    <ResidenceStatus>Own</ResidenceStatus>
+    <ResidenceType>SingleFamilyHome</ResidenceType>
+    <CurrentResidenceLength>18</CurrentResidenceLength>
+    <PreviousResidenceLengthMonths>28</PreviousResidenceLengthMonths>
+    <ResidenceInsured>Yes</ResidenceInsured>
+    <InsuranceType>NA</InsuranceType>
+    <InsurerName>NA</InsurerName>
+    <Addr1>3712 Park Overlook Ct</Addr1>
+    <Addr2>string</Addr2>
+    <City>Ellicott City</City>
+    <StateAbbreviation>NA</StateAbbreviation>
+    <State>Maryland</State>
+    <Zip>21042</Zip>
+    <County>Howard</County>
+  </ResidenceInfo>
+  <Claims>
+    <Type>FIRE</Type>
+    <Date>2018-10-09T03:12:33</Date>
+    <DamageAmount>2500</DamageAmount>
+  </Claims>
+  <Dwelling>
+    <DwellingType>NA</DwellingType>
+    <HomeOwnership>NA</HomeOwnership>
+    <NumFamilies>0</NumFamilies>
+    <NumResidents>0</NumResidents>
+    <NumEmployees>0</NumEmployees>
+    <ExtendedFamily>NA</ExtendedFamily>
+    <NewlyPurchased>No</NewlyPurchased>
+    <PurchaseDate>2018-04-09T03:12:33</PurchaseDate>
+    <PurchasePrice>325000</PurchasePrice>
+    <MarketValue>330000</MarketValue>
+    <ReplacementCost>0</ReplacementCost>
+    <NumMortgages>0</NumMortgages>
+    <Bankruptcy>No</Bankruptcy>
+    <Repossessions>No</Repossessions>
+    <OccupiedBy>Owner</OccupiedBy>
+    <Use>Primary</Use>
+    <LandLease>NA</LandLease>
+    <DateRented>0001-01-01T12:00:00</DateRented>
+    <WithinCityLimits>Yes</WithinCityLimits>
+    <YearBulit>1995</YearBulit>
+    <ConstructionQuality>Average</ConstructionQuality>
+    <ConstructionType>Frame</ConstructionType>
+    <DwellingStyle>NA</DwellingStyle>
+    <FoundationType>BasementFullyFinished</FoundationType>
+    <SquareFootage>1300</SquareFootage>
+    <NumStories>TwoStory</NumStories>
+    <NumRooms>8</NumRooms>
+    <NumBedrooms>3</NumBedrooms>
+    <NumBathrooms>2</NumBathrooms>
+    <NumFullBaths>0</NumFullBaths>
+    <NumHalfBaths>0</NumHalfBaths>
+    <NumThreeQuarterBaths>0</NumThreeQuarterBaths>
+    <InteriorWalls>
+      <Material>NA</Material>
+      <Percentage>0</Percentage>
+    </InteriorWalls>
+    <InteriorFloors>
+      <FloorMaterial>NA</FloorMaterial>
+      <Percentage>0</Percentage>
+    </InteriorFloors>
+    <CounterTops>
+      <Material>NA</Material>
+      <Percentage>0</Percentage>
+    </CounterTops>
+    <Ceilings>
+      <Material>NA</Material>
+      <Percentage>0</Percentage>
+    </Ceilings>
+    <NumVaultedCeilings>0</NumVaultedCeilings>
+    <NumRoomsCrownMolding>0</NumRoomsCrownMolding>
+    <NumApartments>0</NumApartments>
+    <ExteriorWallType>Vinyl</ExteriorWallType>
+    <RoofType>ArchitecturalShingle</RoofType>
+    <RoofShape>NA</RoofShape>
+    <RoofYearInstalled>1995</RoofYearInstalled>
+    <ElectricPanelType>CircuitBreaker</ElectricPanelType>
+    <ElectricWiringType>Copper</ElectricWiringType>
+    <Deck>No</Deck>
+    <GarageType>AttachedOneCar</GarageType>
+    <AirConditioning>Yes</AirConditioning>
+    <HeatingType>GasForcedAir</HeatingType>
+    <FuelStorage>NA</FuelStorage>
+    <KeroseneSpaceHeater>NA</KeroseneSpaceHeater>
+    <ElectricSpaceHeater>NA</ElectricSpaceHeater>
+    <WoodStove>No</WoodStove>
+    <WoodStoveInspected>NA</WoodStoveInspected>
+    <WoodStoveCleaned>NA</WoodStoveCleaned>
+    <WoodStoveProfInstalled>NA</WoodStoveProfInstalled>
+    <NumFireplaces>1</NumFireplaces>
+    <SumpPump>Yes</SumpPump>
+    <SumpPumpBackupPower>BP</SumpPumpBackupPower>
+    <HotTub>No</HotTub>
+    <Sauna>No</Sauna>
+    <Pool>No</Pool>
+    <PoolInground>NA</PoolInground>
+    <PoolFence>NA</PoolFence>
+    <PoolSafetyCover>NA</PoolSafetyCover>
+    <PoolRetractableLadder>NA</PoolRetractableLadder>
+    <PoolOtherSafetyFeature>NA</PoolOtherSafetyFeature>
+    <Trampoline>No</Trampoline>
+    <TennisCourt>No</TennisCourt>
+    <FireDistrict>string</FireDistrict>
+    <FireStationDistance>Within10Miles</FireStationDistance>
+    <HydrantDistance>Within1000Feet</HydrantDistance>
+    <BrushDistance>NA</BrushDistance>
+    <FireExtinguisher>Yes</FireExtinguisher>
+    <FireAlarm>No</FireAlarm>
+    <SmokeAlarm>Yes</SmokeAlarm>
+    <CarbonMono>Yes</CarbonMono>
+    <SprinklerSystem>NA</SprinklerSystem>
+    <BurglarAlarm>Yes</BurglarAlarm>
+    <Deadbolts>Yes</Deadbolts>
+    <NonSmoker>NA</NonSmoker>
+    <BizFarm>No</BizFarm>
+    <WaterProximity>NA</WaterProximity>
+    <FloodPlainType>NA</FloodPlainType>
+    <FloodZone>B</FloodZone>
+    <StormShutterType>Engineer</StormShutterType>
+    <DogType>None</DogType>
+    <Addr1>string</Addr1>
+    <Addr2>string</Addr2>
+    <City>string</City>
+    <StateAbbreviation>NA</StateAbbreviation>
+    <State>NA</State>
+    <Zip>string</Zip>
+    <County>string</County>
+  </Dwelling>
+  <Browser>Mozilla/5.0 compatible MSIE 10.0 Windows NT 6.1</Browser>
+  <SubmissionURL>www.leadcloud.us</SubmissionURL>
+  <ConsentLanguage>This is the TCPA consent language from the submission form.</ConsentLanguage>
+  <TransactionId>668f7c84-dae2-4a8f-8bc0-893d48ad9e0f</TransactionId>
+  <ConsumerSourceIP>127.0.0.1</ConsumerSourceIP>
+  <JornayaUniversalLeadID>92539a0d-1d2c-4176-9608-4645bfaf90e7</JornayaUniversalLeadID>
+  <SellerCampaignName>Home RC1</SellerCampaignName>
+  <SellerCampaignSubSource>A09873</SellerCampaignSubSource>
+  <IntegrationId>00000000-0000-0000-0000-000000000000</IntegrationId>
+  <SourceIP>string</SourceIP>
+  <Source>LeadCloud</Source>
+  <RequestDt>2019-10-09T03:12:33</RequestDt>
+  <SellerLeadPrice>0</SellerLeadPrice>
+  <Credential>
+    <Role>string</Role>
+    <Login>string</Login>
+    <Password>string</Password>
+    <Key>string</Key>
+  </Credential>
+  <CustomField>
+    <Name>string</Name>
+    <Value>string</Value>
+  </CustomField>
+  <Route>
+    <Platform>string</Platform>
+    <Carrier>string</Carrier>
+    <Login>string</Login>
+    <Password>string</Password>
+    <Code>string</Code>
+  </Route>
+</HomeRate>
+
+
+						TARGET
+<LeadCloud>
+  <RequestDt>2013-10-08T22:06:27</RequestDt>
+  <SchemaVersion>2.0</SchemaVersion>
+  <TCPAInfo>
+    <RequestDt>2013-10-08T22:06:27</RequestDt>
+    <Browser>Mozilla/5.0 compatible MSIE 10.0 Windows NT 6.1</Browser>
+    <SubmissionURL>www.leadcloud.us/quote</SubmissionURL>
+    <ConsentLanguage>This is where the consent language that the consumer clicks on to submit their lead in is sent.</ConsentLanguage>
+    <SessionId>231AC1A6-C269-4CF6-8D87-840E949CEC5F</SessionId>
+    <ConsumerSourceIP>111.111.111.111</ConsumerSourceIP>
+  </TCPAInfo>
+  <SignonRq>
+    <ClientDt>2013-10-08T22:06:27</ClientDt>
+    <CustLangPref>ENG</CustLangPref>
+    <ClientApp>
+      <Org>LeadCloud</Org>
+      <Name>Home</Name>
+      <Version>1.00</Version>
+      <SourceIP>11.111.111.11</SourceIP>
+      <UniversalLeadID>B26048E9-B1B2-42EA-9E23-07DE5D13551F</UniversalLeadID>
+      <ExclusiveLead>0</ExclusiveLead>
+      <SellerCampaignName>Direct Click Program</SellerCampaignName>
+      <SellerCampaignSubSource>A09873</SellerCampaignSubSource>
+      <SellerLeadPrice>7.75</SellerLeadPrice>
+    </ClientApp>
+  </SignonRq>
+  <InsuranceSvcRq>
+    <RqUID>231AC1A6-C269-4CF6-8D87-840E949CEC5F</RqUID>
+    <HomePolicyQuoteInqRq>
+      <RqUID>231AC1A6-C269-4CF6-8D87-840E949CEC5F</RqUID>
+      <TransactionRequestDt>2013-10-08T22:06:27</TransactionRequestDt>
+      <CurCd>USD</CurCd>
+      <Producer>
+        <ItemIdInfo>
+          <InsurerId>4578699</InsurerId>
+        </ItemIdInfo>
+      </Producer>
+      <InsuredOrPrincipal>
+        <GeneralPartyInfo>
+          <NameInfo>
+            <PersonName>
+              <Surname>Fuller</Surname>
+              <GivenName>Heather</GivenName>
+            </PersonName>
+          </NameInfo>
+          <Addr>
+            <AddrTypeCd>MailingAddress</AddrTypeCd>
+            <Addr1>6553 Jay Rd</Addr1>
+            <Addr2>Unit B</Addr2>
+            <City>Boulder</City>
+            <StateProvCd>Colorado</StateProvCd>
+            <PostalCode>80305</PostalCode>
+            <County>Boulder</County>
+          </Addr>
+          <Communications>
+            <PhoneInfo>
+              <CommunicationUseCd>Business</CommunicationUseCd>
+              <PhoneNumber>+1-855-5323256+701</PhoneNumber>
+            </PhoneInfo>
+            <PhoneInfo>
+              <CommunicationUseCd>Home</CommunicationUseCd>
+              <PhoneNumber>+1-303-3799519</PhoneNumber>
+            </PhoneInfo>
+            <PhoneInfo>
+              <CommunicationUseCd>Day</CommunicationUseCd>
+              <PhoneNumber>+1-720-5964393</PhoneNumber>
+            </PhoneInfo>
+            <PhoneInfo>
+              <CommunicationUseCd>Alternate</CommunicationUseCd>
+              <PhoneNumber>+1-720-2175560</PhoneNumber>
+            </PhoneInfo>
+            <EmailInfo>
+              <EmailAddr>heather@leadcloud.us</EmailAddr>
+            </EmailInfo>
+            <WebsiteInfo>
+              <WebsiteURL>www.leadcloud.us</WebsiteURL>
+            </WebsiteInfo>
+          </Communications>
+        </GeneralPartyInfo>
+        <InsuredOrPrincipalInfo>
+          <PersonInfo>
+            <GenderCd>F</GenderCd>
+            <BirthDt>1977-11-20</BirthDt>
+            <MaritalStatusCd>M</MaritalStatusCd>
+            <OccupationClassCd>ADM</OccupationClassCd>
+            <LengthTimeCurrentOccupation>
+              <NumUnits>4</NumUnits>
+            </LengthTimeCurrentOccupation>
+            <EducationLevelCd>BachelorsDegree</EducationLevelCd>
+            <MilitaryServiceInfo>
+              <MilitaryRankDesc>No Military Experience</MilitaryRankDesc>
+            </MilitaryServiceInfo>
+            <RelationshipToApplicantCd>IN</RelationshipToApplicantCd>
+          </PersonInfo>
+          <PrincipalInfo>
+            <CreditScoreInfo>
+              <CSReasonDesc>Average</CSReasonDesc>
+            </CreditScoreInfo>
+          </PrincipalInfo>
+        </InsuredOrPrincipalInfo>
+      </InsuredOrPrincipal>
+      <PersPolicy>
+        <LOBCd>HOME</LOBCd>
+        <OtherOrPriorPolicy>
+          <PolicyCd>Prior</PolicyCd>
+          <LOBCd>HOME</LOBCd>
+          <InsurerName>Geico</InsurerName>
+          <OriginalInceptionDt>2008-09-05</OriginalInceptionDt>
+          <LengthTimeWithPreviousInsurer>
+            <NumUnits>60</NumUnits>
+            <UnitMeasurementCd>MON</UnitMeasurementCd>
+          </LengthTimeWithPreviousInsurer>
+          <PolicyAmt>
+            <Amt>2500</Amt>
+          </PolicyAmt>
+          <CancelDeclineDt>2013-10-15</CancelDeclineDt>
+        </OtherOrPriorPolicy>
+        <PersApplicationInfo>
+          <ResidenceOwnedRentedCd>OWNED</ResidenceOwnedRentedCd>
+          <ResidenceTypeCd>DW</ResidenceTypeCd>
+          <LengthTimeCurrentAddr>
+            <DurationPeriod>
+              <NumUnits>15</NumUnits>
+              <UnitMeasurementCd>MON</UnitMeasurementCd>
+            </DurationPeriod>
+          </LengthTimeCurrentAddr>
+          <LengthTimePreviousAddr>
+            <DurationPeriod>
+              <NumUnits>10</NumUnits>
+              <UnitMeasurementCd>MON</UnitMeasurementCd>
+            </DurationPeriod>
+          </LengthTimePreviousAddr>
+        </PersApplicationInfo>
+        <PropertyLossInfo id="CL1">
+          <LossKindCd>FLOOD</LossKindCd>
+          <ProbableIncurredAmt>
+            <Amt>1000</Amt>
+          </ProbableIncurredAmt>
+          <LossDt>2012-09-18</LossDt>
+        </PropertyLossInfo>
+        <PropertyLossInfo id="CL2">
+          <LossKindCd>Hail</LossKindCd>
+          <ProbableIncurredAmt>
+            <Amt>2000</Amt>
+          </ProbableIncurredAmt>
+          <LossDt>2013-01-12</LossDt>
+        </PropertyLossInfo>
+        <PropertyLossInfo id="CL3">
+          <LossKindCd>Smoke</LossKindCd>
+          <ProbableIncurredAmt>
+            <Amt>500</Amt>
+          </ProbableIncurredAmt>
+          <LossDt>2013-02-12</LossDt>
+        </PropertyLossInfo>
+        <PropertyLossInfo id="CL4">
+          <LossKindCd>Lightning</LossKindCd>
+          <ProbableIncurredAmt>
+            <Amt>200</Amt>
+          </ProbableIncurredAmt>
+          <LossDt>2013-05-01</LossDt>
+        </PropertyLossInfo>
+      </PersPolicy>
+      <Location>
+        <Addr>
+          <AddrTypeCd>StreetAddress</AddrTypeCd>
+          <Addr1>6553 Jay Rd</Addr1>
+          <Addr2>Unit B</Addr2>
+          <City>Boulder</City>
+          <StateProvCd>Colorado</StateProvCd>
+          <PostalCode>80305</PostalCode>
+          <County>Boulder</County>
+        </Addr>
+      </Location>
+     <HomeLineBusiness>
+				<LOBCd>HOME</LOBCd>
+				<Dwell>
+					<PurchaseDt>2012-04-15</PurchaseDt>
+					<PurchasePriceAmt>            
+						<Amt><xsl:value-of select="/HomeRate/Dwelling/PurchasePrice"/></Amt>            
+						<CurCd>USD</CurCd>          
+					</PurchasePriceAmt>
+					<WiringTypeCd><xsl:value-of select="/HomeRate/Dwelling/ElectricWiringType"/></WiringTypeCd>		
+           <AdditionalResidenceInd><xsl:choose>
+                    <xsl:when test="/HomeRate/Dwelling/OccupiedBy ='Owner'">
+                      <xsl:text>1</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/OccupiedBy ='Rental'">
+                      <xsl:text>0</xsl:text>                          
+                    </xsl:when></xsl:choose></AdditionalResidenceInd>
+          
+					<DogTypeCd><xsl:value-of select="/HomeRate/Dwelling/DogType"/></DogTypeCd>
+				  <AreaTypeSurroundingsCd><xsl:choose>
+                    <xsl:when test="/HomeRate/Dwelling/WithinCityLimits ='Yes'">
+                      <xsl:text>IN</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/WithinCityLimits ='OutsideCityLimits'">
+                      <xsl:text>OUt</xsl:text>                          
+                    </xsl:when></xsl:choose></AreaTypeSurroundingsCd>
+          
+					<Construction>
+						<ConstructionCd><xsl:value-of select="/HomeRate/Dwelling/ConstructionType"/></ConstructionCd>
+						<YearBuilt><xsl:value-of select="/HomeRate/Dwelling/YearBulit"/></YearBuilt>
+						<FoundationCd><xsl:value-of select="/HomeRate/Dwelling/ConstructionQuality"/></FoundationCd>
+						
+              <BldgArea>
+							<NumUnits><xsl:value-of select="/HomeRate/Dwelling/SquareFootage"/></NumUnits>
+							<UnitMeasurementCd>FTK</UnitMeasurementCd>
+						</BldgArea>
+            <NumStories>
+						<xsl:choose>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='OneStory'">
+                      <xsl:text>1</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='OneandaHalfStory'">
+                      <xsl:text>1.5</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='TwoStory'">
+                      <xsl:text>2</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='TwoandaHalfStory'">
+                      <xsl:text>2.5</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='ThreeStory'">
+                      <xsl:text>3</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='Four or More Stories'">
+                      <xsl:text>4</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='BiLevel'">
+                      <xsl:text>BILEVEL</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='TriLevel'">
+                      <xsl:text>TRILEVEL</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='Split-Level'">
+                      <xsl:text>SPTLV</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/NumStories ='Other'">
+                      <xsl:text>7</xsl:text>
+                    </xsl:when>
+                  </xsl:choose>
+                </NumStories>
+            
+						<RoofingMaterial>
+                  <RoofMaterialCd>
+                    <xsl:choose>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Asphalt Shingle'">
+                        <xsl:text>ASPHS</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Composition Shingle'">
+                        <xsl:text>COMP</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Wood Fiber Shingle'">
+                        <xsl:text>WF</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Tile/Tile Shingle'">
+                        <xsl:text>TILE</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Concrete'">
+                        <xsl:text>CONCRETE</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/Roof ='Metal Roof'">
+                        <xsl:text>METL</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Flat Roof'">
+                        <xsl:text>FLAT</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Other'">
+                        <xsl:text>OT</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/Roof ='Cedar Shake'">
+                        <xsl:text>CEDRK</xsl:text>
+                      </xsl:when>
+                    </xsl:choose>
+                  </RoofMaterialCd>
+                </RoofingMaterial>
+
+						<ElectricalPanelCd> 
+        <xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='CircuitBreaker'">
+        <xsl:text>CIRC</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Fuse'">
+        <xsl:text>FUSE</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Other'">
+        <xsl:text>OT</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Unknown'">
+        <xsl:text>UN</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+      </ElectricalPanelCd>
+</Construction>				
+          <DwellOccupancy>
+						<NumRooms><xsl:value-of select="/HomeRate/Dwelling/NumRooms"/></NumRooms>
+						<NumBedrooms><xsl:value-of select="/HomeRate/Dwelling/NumBedrooms"/></NumBedrooms>
+						<DwellUseCd>
+              <xsl:variable name="Use" select="concat('',/HomeRate/Dwelling/Use)"/>
+            <xsl:if test="$Use !=''">
+              
+                 <xsl:choose>
+                <xsl:when test="$Use ='Primary'">
+                      <xsl:text>1</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$Use ='Secondary/Seasonal'">
+                      <xsl:text>3</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$Use ='Seasonal'">
+                      <xsl:text>4</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$Use ='Occasionally Occupied' or $Use='Tenant' or $Use='Occupied'">
+                      <xsl:text>8</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$Use ='Other'">
+                      <xsl:text>OT</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$Use ='Used for Farming'">
+                      <xsl:text>6</xsl:text>
+                          </xsl:when>
+                            </xsl:choose>
+              </xsl:if>
+
+            </DwellUseCd>
+						<OccupancyTypeCd>
+           <xsl:variable name="OccupancyTypeCd" select="concat('',/HomeRate/Dwelling/OccupiedBy)"/>
+      <xsl:if test="$OccupancyTypeCd !=''">              
+      <xsl:choose>
+      <xsl:when test="$OccupancyTypeCd ='Owner'">
+      <xsl:text>OWNER</xsl:text>
+      </xsl:when>
+      <xsl:when test="$OccupancyTypeCd ='Tenant'">
+      <xsl:text>TENAN</xsl:text>
+      </xsl:when>
+      <xsl:when test="$OccupancyTypeCd ='Vacant'">
+      <xsl:text>VACAN</xsl:text>
+      </xsl:when>      
+      </xsl:choose>
+      </xsl:if>    
+          </OccupancyTypeCd>
+
+					</DwellOccupancy>
+          
+					<BldgProtection>
+						<DistanceToFireStation>
+               <xsl:variable name="FireStationDistance" select="concat('',/HomeRate/Dwelling/FireStationDistance)"/>
+            <xsl:if test="$FireStationDistance !=''">
+              <NumUnits>
+                 <xsl:choose>
+                <xsl:when test="$FireStationDistance ='Within5Miles'">
+                      <xsl:text>5</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$FireStationDistance ='Within10Miles'">
+                      <xsl:text>10</xsl:text>
+                          </xsl:when>
+                    <xsl:when test="$FireStationDistance ='Over10Miles'">
+                      <xsl:text>11</xsl:text>
+                          </xsl:when>
+                            </xsl:choose>
+              </NumUnits>
+               </xsl:if>            
+							<UnitMeasurementCd>Miles</UnitMeasurementCd>
+						</DistanceToFireStation>
+            
+						<DistanceToHydrant>
+              <xsl:variable name="HydrantDistance" select="concat('',/HomeRate/Dwelling/HydrantDistance)"/>
+            <xsl:if test="$HydrantDistance !=''">
+              <NumUnits>
+                 <xsl:choose>
+                <xsl:when test="$HydrantDistance ='Within1000Feet'">
+                     <xsl:text>1000</xsl:text>
+                          </xsl:when>
+                   <xsl:when test="$HydrantDistance ='Over1000Feet'">
+                     <xsl:text>1001</xsl:text>
+                          </xsl:when>
+                            </xsl:choose>
+              </NumUnits>
+              <UnitMeasurementCd>
+                <xsl:text>Feet</xsl:text>
+              </UnitMeasurementCd>
+            </xsl:if>            
+						
+						</DistanceToHydrant>
+						<FireExtinguisherInd> 
+              <xsl:variable name="FireExtinguisher" select="concat('',/HomeRate/Dwelling/FireExtinguisher)"/>
+            <xsl:if test="$FireExtinguisher !=''">            
+                 <xsl:choose>
+                <xsl:when test="$FireExtinguisher ='Yes'">
+                     <xsl:text>1</xsl:text>
+                          </xsl:when>
+                   <xsl:when test="$FireExtinguisher='No'">
+                     <xsl:text>0</xsl:text>
+                          </xsl:when>
+                            </xsl:choose>
+              </xsl:if>
+            </FireExtinguisherInd>
+            
+						<ProtectionDeviceBurglarCd></ProtectionDeviceBurglarCd>
+            
+            <!--Taking value from the FireExtinguisher-->
+						<ProtectionDeviceFireCd><xsl:value-of select="/HomeRate/Dwelling/FireExtinguisher"/></ProtectionDeviceFireCd>
+						
+            <ProtectionDeviceSmokeCd> 
+              <xsl:variable name="SmokeAlarm" select="concat('',/HomeRate/Dwelling/SmokeAlarm)"/>
+            <xsl:if test="$SmokeAlarm !=''">            
+                 <xsl:choose>
+                <xsl:when test="$SmokeAlarm ='Yes'">
+                     <xsl:text>Fire</xsl:text>
+                          </xsl:when>
+                   <xsl:when test="$SmokeAlarm ='No'">
+                     <xsl:text>No</xsl:text>
+                          </xsl:when>
+                            </xsl:choose>
+              </xsl:if></ProtectionDeviceSmokeCd>
+						<ProtectionDeviceSprinklerCd>
+              <xsl:value-of select="/HomeRate/Dwelling/SprinklerSystem"/>
+            </ProtectionDeviceSprinklerCd>
+					</BldgProtection>
+				
+          <BldgImprovements>
+            <!--Not Found in the source file-->
+						<SubstantialImprovementDt></SubstantialImprovementDt>
+					</BldgImprovements>
+          
+					<DwellInspectionValuation>
+						<AirConditioningCd><xsl:value-of select="/HomeRate/Dwelling/AirConditioning"/></AirConditioningCd>
+             <xsl:if
+                 test="/HomeRate/Dwelling/HotTub='Yes' or /HomeRate/Dwelling/Sauna='Yes' or /HomeRate/Dwelling/WoodStove='Yes' or /HomeRate/Dwelling/SumpPump='Yes'">
+                  <BuiltInsInfo>
+                    <xsl:if test="/HomeRate/Dwelling/Sauna='Yes'">
+                      <BuiltInsCd>Sauna</BuiltInsCd>
+                    </xsl:if>
+                    <xsl:if test="/HomeRate/Dwelling/HotTub='Yes'">
+                      <BuiltInsCd>HotTub</BuiltInsCd>
+                    </xsl:if>
+                    <xsl:if test="/HomeRate/Dwelling/SumpPump='Yes'">
+                      <BuiltInsCd>Sump</BuiltInsCd>
+                    </xsl:if>
+                    <xsl:if test="/HomeRate/Dwelling/WoodStove='Yes'">
+                       </xsl:if>
+                      <BuiltInsCd>WBStov</BuiltInsCd>
+                      </BuiltInsInfo>
+                    </xsl:if>
+								<ConstructionQualityCd>	 
+                  <xsl:variable name="ConstructionQuality"
+                     select="normalize-space(../HomeRate/Dwelling/ConstructionQuality)"/>
+                               <xsl:choose>
+                                     <xsl:when test="$ConstructionQuality = 'Economical'">
+                                       <xsl:text>ECONO</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$ConstructionQuality = 'Below Average' ">
+                                       <xsl:text>Min</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$ConstructionQuality = 'Excellent' ">
+                                       <xsl:text>Superior</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$ConstructionQuality = 'Good/Manufactured' ">
+                                       <xsl:text>Basic</xsl:text>
+                                     </xsl:when>
+                                    <xsl:when test="$ConstructionQuality = 'Average' or $ConstructionQuality='Average/Standard' ">
+                                       <xsl:text>STAND</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$ConstructionQuality = 'Luxury' ">
+                                       <xsl:text>LUXURY</xsl:text>
+                                      </xsl:when>
+                                     </xsl:choose></ConstructionQualityCd>
+							<BathroomInfo>
+							<NumBathrooms><xsl:value-of select="/HomeRate/Dwelling/NumBathrooms"/></NumBathrooms>
+						</BathroomInfo>
+						<DeckInfo>
+							<DeckTypeCd><xsl:value-of select="/HomeRate/Dwelling/Deck"/></DeckTypeCd>
+						</DeckInfo>
+						<ExteriorWallMaterialInfo>
+							 <ExteriorWallMaterialCd>
+                    <xsl:choose>
+                      <xsl:when test="Dwelling/Construction ='Masonry Veneer'">
+                        <xsl:text>V</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Mostly Brick'">
+                        <xsl:text>Brick</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Mostly Wood Frame'">
+                        <xsl:text>Wood</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Mostly Stone'">
+                        <xsl:text>Stone</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Aluminum Siding'">
+                        <xsl:text>Aluminum</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Vinyl Siding'">
+                        <xsl:text>Vinyl</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Veneer'">
+                        <xsl:text>V</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Cinder Block'">
+                        <xsl:text>Cblock</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Stucco'">
+                        <xsl:text>Stucco</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Other'">
+                        <xsl:text>OT</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Log'">
+                        <xsl:text>L</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="Dwelling/ExteriorWallType='Aluminum/Vinyl Siding'">
+                        <xsl:text>AlumVin</xsl:text>
+                      </xsl:when>
+                    </xsl:choose>
+                  </ExteriorWallMaterialCd>
+						</ExteriorWallMaterialInfo>
+						<FireplaceInfo>
+							<NumFireplaces><xsl:value-of select="/HomeRate/Dwelling/NumFireplaces"/></NumFireplaces>
+						</FireplaceInfo>
+						<GarageInfo>
+                  <xsl:choose>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='NoGarage'">
+                      <GarageTypeCd>N</GarageTypeCd>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='Carport'">
+                      <GarageTypeCd>CP</GarageTypeCd>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedOneCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>1</AttachedInd>
+                      <NumVehs>1</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedTwoCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>1</AttachedInd>
+                      <NumVehs>2</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedThreeCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>1</AttachedInd>
+                      <NumVehs>3</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedFourCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>0</AttachedInd>
+                      <NumVehs>1</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedOneCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>0</AttachedInd>
+                      <NumVehs>1</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedTwoCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>0</AttachedInd>
+                      <NumVehs>2</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedThreeCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>0</AttachedInd>
+                      <NumVehs>3</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedFourCar'">
+                      <GarageTypeCd>Frame</GarageTypeCd>
+                      <AttachedInd>0</AttachedInd>
+                      <NumVehs>4</NumVehs>
+                    </xsl:when>
+                    <xsl:when test="/HomeRate/Dwelling/GarageType ='Other'">
+                      <GarageTypeCd>OT</GarageTypeCd>
+                    </xsl:when>
+                  </xsl:choose>
+                </GarageInfo>
+						<MarketValueAmt>
+							<Amt><xsl:value-of select="/HomeRate/Dwelling/MarketValue"/></Amt>
+						</MarketValueAmt>
+					</DwellInspectionValuation>
+				<QuestionAnswer>
+						<QuestionCd>GENRL15</QuestionCd>
+						<xsl:variable name="Pool" select="concat('',/HomeRate/Dwelling/Pool)"/>
+            <xsl:if test="$Pool !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$Pool !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/Pool"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>            
+					</QuestionAnswer>
+					<QuestionAnswer>
+            
+						<QuestionCd>GENRL16</QuestionCd>
+							<xsl:variable name="PoolFence" select="concat('',/HomeRate/Dwelling/PoolFence)"/>
+            <xsl:if test="$PoolFence !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$PoolFence !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/PoolFence"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+          
+					<QuestionAnswer>
+						<QuestionCd>GENRL25</QuestionCd>
+						<xsl:variable name="Repossessions" select="concat('',/HomeRate/Dwelling/Repossessions)"/>
+            <xsl:if test="$Repossessions !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$Repossessions !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/Repossessions"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+						<QuestionCd>GENRL27</QuestionCd>
+						<YesNoCd>YES</YesNoCd>
+					</QuestionAnswer>
+					<QuestionAnswer>
+						<QuestionCd>GENRL31</QuestionCd>
+						<xsl:variable name="Trampoline" select="concat('',/HomeRate/Dwelling/Trampoline)"/>
+            <xsl:if test="$Trampoline !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$Trampoline !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/Trampoline"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+						<QuestionCd>GENRL58</QuestionCd>
+					<xsl:variable name="NewlyPurchased" select="concat('',/HomeRate/Dwelling/NewlyPurchased)"/>
+            <xsl:if test="$NewlyPurchased !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$NewlyPurchased !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/NewlyPurchased"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+          
+           <!--/*Not found in the sourcce */-->
+					<QuestionAnswer>
+						<QuestionCd><xsl:variable name="BizFarm" select="concat('',/HomeRate/Dwelling/BizFarm)"/>
+            <xsl:if test="$BizFarm!=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$BizFarm!=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/BizFarm"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if></QuestionCd>
+						<YesNoCd></YesNoCd>
+					</QuestionAnswer>
+          
+					<QuestionAnswer>
+						<QuestionCd>HOME16</QuestionCd>
+						<xsl:variable name="Deadbolts" select="concat('',/HomeRate/Dwelling/Deadbolts)"/>
+            <xsl:if test="$Deadbolts!=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$Deadbolts!=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/Deadbolts"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+						<QuestionCd>HOME25</QuestionCd>
+						<xsl:variable name="CarbonMono" select="concat('',/HomeRate/Dwelling/CarbonMono)"/>
+            <xsl:if test="$CarbonMono!=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$CarbonMono !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/CarbonMono"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+						<QuestionCd>LC08</QuestionCd>
+							<xsl:variable name="TennisCourt" select="concat('',/HomeRate/Dwelling/TennisCourt)"/>
+            <xsl:if test="$TennisCourt !=''">
+              <YesNoCd>
+                 <xsl:choose>
+                <xsl:when test="$TennisCourt !=''">
+                      <xsl:value-of select="/HomeRate/Dwelling/TennisCourt"/>
+                          </xsl:when>
+                            </xsl:choose>
+              </YesNoCd>
+            </xsl:if>
+					</QuestionAnswer>
+					<DwellStateSupplement>
+						<DistanceToBrush>
+							<NumUnits></NumUnits>
+							<UnitMeasurementCd></UnitMeasurementCd>
+						</DistanceToBrush>
+						<SeacoastOrOtherBodyWaterProximityCd>              
+               <xsl:if test="/HomeRate/Dwelling/WaterProximity !='Not Applicable'">
+                  <SeacoastOrOtherBodyWaterProximityCd>
+                    <xsl:choose>
+                      <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within1000feet'">
+                        <xsl:text>BCH</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within1mile'">
+                        <xsl:text>S</xsl:text>
+                      </xsl:when>
+                      <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within5miles'">
+                        <xsl:text>I</xsl:text>
+                      </xsl:when>
+                    </xsl:choose>
+                  </SeacoastOrOtherBodyWaterProximityCd>
+                </xsl:if>
+            </SeacoastOrOtherBodyWaterProximityCd>
+					</DwellStateSupplement>
+					<HeatingUnitInfo>
+            <FuelTypeCd>
+						 <xsl:variable name="FuelTypeCd"
+                     select="normalize-space(../HomeRate/Dwelling/HeatingType)"/>
+                               <xsl:choose>
+                                     <xsl:when test="$FuelTypeCd = 'GasForcedAir'">
+                                       <xsl:text>G</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$FuelTypeCd = 'Boiler' ">
+                                       <xsl:text>Steam</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$FuelTypeCd = 'OilCoalKerosene' ">
+                                       <xsl:text>Oil</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$FuelTypeCd = 'Electric' ">
+                                       <xsl:text>Electric</xsl:text>
+                                     </xsl:when>
+                                    <xsl:when test="$FuelTypeCd = 'Stove' ">
+                                       <xsl:text>Pellet</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$FuelTypeCd = 'Propane' ">
+                                       <xsl:text>Propane</xsl:text>
+                                     </xsl:when>
+                                       <xsl:when test="$FuelTypeCd = 'Other' ">
+                                       <xsl:text>OT</xsl:text>
+                                     </xsl:when>
+                                   <xsl:when test="$FuelTypeCd = 'Diesel' ">
+                                       <xsl:text>D</xsl:text>
+                                     </xsl:when>
+                                     </xsl:choose>
+              </FuelTypeCd>                            
+					</HeatingUnitInfo>
+					<FloodInfo>
+						<RatingTypeCd></RatingTypeCd>
+					</FloodInfo>
+					<RoofConditionCd></RoofConditionCd>
+				</Dwell>
+				<Coverage>
+					<CoverageCd></CoverageCd>
+					<Limit>
+						<FormatInteger></FormatInteger>
+					</Limit>
+					<Deductible>
+						<FormatInteger></FormatInteger>
+					</Deductible>
+				</Coverage>
+				<Coverage>
+					<CoverageCd></CoverageCd>
+					<Limit>
+						<FormatInteger></FormatInteger>
+					</Limit>
+				</Coverage>
+			</HomeLineBusiness>
+
+    </HomePolicyQuoteInqRq>
+  </InsuranceSvcRq>
+</LeadCloud>
+
+XSLT CODE
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
+	xmlns:local="http://leadcloud.us/csharp" exclude-result-prefixes="msxsl local"
+	extension-element-prefixes="msxsl local" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <xsl:output omit-xml-declaration="yes" method="xml"/>
+  <xsl:template match="/HomeRate" xml:space="preserve">
+
+ <LeadCloud>
+    <RequestDt>
+          <xsl:choose>
+            <xsl:when test="RequestDt !=''">
+              <xsl:value-of select="RequestDt"/>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="user:now()"/>
+            </xsl:otherwise>
+          </xsl:choose>
+        </RequestDt>
+   <SchemaVersion>2.0</SchemaVersion>
+    <TCPAInfo>
+       <xsl:copy-of select="RequestDt"></xsl:copy-of> 
+       <xsl:copy-of select="Browser"></xsl:copy-of> 
+       <xsl:copy-of select="SubmissionURL"></xsl:copy-of> 
+       <xsl:copy-of select="ConsentLanguage"></xsl:copy-of> 
+      <SessionId></SessionId><!--Not found in the HomeRate xml(source) file-->
+       <xsl:copy-of select="ConsumerSourceIP"></xsl:copy-of> 
+   </TCPAInfo>
+   <xsl:element name="SignonRq">
+     <ClientDt>
+        <RequestDt>
+          <xsl:choose>
+            <xsl:when test="RequestDt !=''">
+              <xsl:value-of select="RequestDt"/>
+            </xsl:when>
+         <!--<xsl:otherwise>
+              <xsl:value-of select="dateutils:now()"/>
+            </xsl:otherwise>-->
+   </xsl:choose>
+        </RequestDt>
+     </ClientDt>
+      <CustLangPref>ENG</CustLangPref>
+      <ClientApp>
+        <Org><xsl:value-of select="Source"/></Org>
+         <Name>Home</Name>
+         <Version>1.00</Version>
+         <SourceIP>  <xsl:value-of select="SourceIP"/></SourceIP>
+        <xsl:if test="DeviceType !=''">
+          <DeviceCd>
+            <xsl:value-of select="DeviceType"/>
+          </DeviceCd>
+        </xsl:if>
+          <xsl:if test="UniversalLeadID !='' or UniversalLeadiD !='' or JornayaUniversalLeadID !='' ">
+           <UniversalLeadID>
+              <xsl:choose>
+                <xsl:when test="UniversalLeadID !=''">
+                  <xsl:value-of select="UniversalLeadID"/>
+                </xsl:when>
+                <xsl:when test="JornayaUniversalLeadID !=''">
+                  <xsl:value-of select="JornayaUniversalLeadID"/>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:value-of select="UniversalLeadiD"/>
+                </xsl:otherwise>
+              </xsl:choose>
+            </UniversalLeadID>
+          </xsl:if>
+         <ExclusiveLead></ExclusiveLead><!--Not found in the HomeRate xml(source) file-->
+          <xsl:if test="SellerCampaignName !=''">
+            <SellerCampaignName> <xsl:value-of select="SellerCampaignName"/> </SellerCampaignName>
+          </xsl:if>
+           <xsl:if test="SellerCampaignSubSource !=''">
+            <SellerCampaignSubSource> <xsl:value-of select="SellerCampaignSubSource"/></SellerCampaignSubSource>
+          </xsl:if>
+          <xsl:if test="SellerLeadPrice !=''">
+            <SellerLeadPrice> <xsl:value-of select="SellerLeadPrice"/></SellerLeadPrice>
+          </xsl:if>
+        
+         <!--<SourceIP><xsl:value-of select="SourceIP"/></SourceIP>
+         <UniversalLeadID><xsl:value-of select="JornayaUniversalLeadID"/></UniversalLeadID> 
+         <ExclusiveLead></ExclusiveLead>
+         <xsl:copy-of select="SellerCampaignName"></xsl:copy-of> 
+         <xsl:copy-of select="SellerCampaignSubSource"></xsl:copy-of> 
+         <xsl:copy-of select="SellerLeadPrice"></xsl:copy-of>--> 
+       </ClientApp>
+       </xsl:element>
+
+       <InsuranceSvcRq>
+           <RqUID></RqUID><!--Not found in the HomeRate xml(source) file-->
+       <HomePolicyQuoteInqRq>
+            <RqUID></RqUID><!--Not found in the HomeRate xml(source) file-->
+            <TransactionRequestDt>
+                   <xsl:choose>
+            <xsl:when test="RequestDt !=''">
+              <xsl:value-of select="RequestDt"/>
+           <!--<xsl:otherwise>
+              <xsl:value-of select="dateutils:now()"/>
+            </xsl:otherwise>-->
+             </xsl:when>
+          </xsl:choose>
+            </TransactionRequestDt>
+            <CurCd>USD</CurCd>
+            <Producer>
+              <ItemIdInfo>
+                <InsurerId></InsurerId><!--Not found in the HomeRate xml(source) file-->
+              </ItemIdInfo>
+            </Producer>
+            <InsuredOrPrincipal>
+              <GeneralPartyInfo>
+                <NameInfo>
+                  <PersonName>
+                   <Surname><xsl:value-of select="ContactInfo/LastName"/></Surname>
+                   <GivenName><xsl:value-of select="ContactInfo/FirstName"/></GivenName>
+                  </PersonName>
+                </NameInfo>
+                <Addr>
+                   <AddrTypeCd></AddrTypeCd><!--Not found in the HomeRate xml(source) file-->
+                   <Addr1><xsl:value-of select="ContactInfo/Addr1"/></Addr1>
+                   <xsl:if test="ContactInfo/Addr2 !=''">
+                   <Addr2><xsl:value-of select="ContactInfo/Addr2"/></Addr2>
+                   </xsl:if>
+                    <City><xsl:value-of select="ContactInfo/City"/></City>
+                   <StateProvCd><xsl:value-of select="ContactInfo/State"/></StateProvCd>
+                   <PostalCode><xsl:value-of select="ContactInfo/Zip"/></PostalCode>
+                   <Country><xsl:value-of select="ContactInfo/County"/></Country>
+                </Addr>
+                <Communications>
+                  <xsl:variable name="BusinessPhone" select="concat('',/HomeRate/ContactInfo/BusinessPhone)"/>
+                  <xsl:variable name="HomePhone" select="concat('',/HomeRate/ContactInfo/HomePhone)"/>
+                  <xsl:variable name="DayPhone" select="concat('',/HomeRate/ContactInfo/DayPhone)"/>
+                  <xsl:variable name="AlternatePhone" select="concat('',/HomeRate/ContactInfo/AlternatePhone)"/>
+                  <xsl:variable name="Fax" select="concat('',/HomeRate/ContactInfo/Fax)"/>
+                    <xsl:if test="$BusinessPhone !=''">
+                           <PhoneInfo>
+                                <PhoneTypeCd>Business</PhoneTypeCd>
+                                <PhoneNumber>
+                                  <xsl:choose>
+                                  <xsl:when test="$BusinessPhone !=''">
+                                         <xsl:value-of select="concat(
+                                            substring($BusinessPhone, 0, 0), '+1-',
+                                            substring($BusinessPhone, 1, 3), '-',
+                                            substring($BusinessPhone, 4, 9), 
+                                            substring($BusinessPhone, 11)
+                                        )"/>+<xsl:value-of select="/HomeRate/ContactInfo/BusinessPhoneExt"/>
+                                            </xsl:when>
+                                              </xsl:choose>
+                                  </PhoneNumber>
+                             </PhoneInfo>
+                    </xsl:if>
+                    <xsl:if test="$DayPhone !=''">
+                    <PhoneInfo>
+                        <PhoneTypeCd>DayPhone</PhoneTypeCd>
+                        <PhoneNumber><xsl:value-of select="concat(
+                                    substring($BusinessPhone, 0, 0), '+1-',
+                                    substring($DayPhone, 1, 3), '-',
+                                    substring($DayPhone, 4, 9), 
+                                    substring($DayPhone, 11)
+                                )"/>
+                                   
+                        </PhoneNumber>
+                    </PhoneInfo>
+                    </xsl:if>
+                    <xsl:if test="$HomePhone !=''">
+                        <PhoneInfo>
+                            <PhoneTypeCd>Home</PhoneTypeCd>
+                            <PhoneNumber> <xsl:value-of select="concat(
+                                          substring($BusinessPhone, 0, 0), '+1-',                
+                                        substring($HomePhone, 1, 3), '-',
+                                        substring($HomePhone, 4, 9), 
+                                        substring($HomePhone, 11)
+                                          )"/>
+                            </PhoneNumber>
+                     </PhoneInfo>
+                    </xsl:if>
+                        <xsl:if test="$AlternatePhone !=''">
+                            <PhoneInfo>
+                                <PhoneTypeCd>Cell</PhoneTypeCd>
+                                <PhoneNumber>
+                                  <xsl:value-of select="concat(
+                                        substring($BusinessPhone, 0, 0), '+1-',        
+                                        substring($AlternatePhone, 1, 3), '-',
+                                        substring($AlternatePhone, 4, 9), 
+                                        substring($AlternatePhone, 11)
+                                    )"/>
+                                </PhoneNumber>
+                            </PhoneInfo>
+                        </xsl:if>
+                  
+                   <xsl:if test="$Fax !=''">
+                            <PhoneInfo>
+                                <PhoneTypeCd>Fax</PhoneTypeCd>
+                                <PhoneNumber>
+                                      <xsl:value-of select="concat(
+                                        substring($Fax, 1, 3), '-',
+                                        substring($Fax, 4, 9), 
+                                        substring($Fax, 11)
+                                    )"/>
+                                </PhoneNumber>
+                            </PhoneInfo>
+                        </xsl:if>
+           
+                    <EmailInfo>
+                        <EmailAddr> <xsl:value-of select="normalize-space(ContactInfo/Email)"/></EmailAddr>
+                    </EmailInfo>
+                   <xsl:if test="ContactInfo/Website !=''">
+                  <WebsiteInfo>
+                    <WebsiteURL>
+                      <xsl:value-of select="ContactInfo/Website"/>
+                    </WebsiteURL>
+                  </WebsiteInfo>
+                </xsl:if>
+                  </Communications>
+              </GeneralPartyInfo>
+               <InsuredOrPrincipalInfo>
+                <PersonInfo>
+                  <GenderCd>
+                    <xsl:value-of select="normalize-space(PersonInfo/Gender)"/>
+              </GenderCd>
+                  <BirthDt><xsl:value-of select="substring(PersonInfo/BirthDt/text(),1,10)"/></BirthDt>
+                   <xsl:variable name="Marital"
+                select="normalize-space(PersonInfo/MaritalStatus)"/>
+                              <MaritalStatusCd>
+                                  <xsl:choose>
+                                      <xsl:when test="$Marital = 'Married'">
+                                        <xsl:text>M</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'Divorced' ">
+                                        <xsl:text>D</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'Domestic Partner' ">
+                                        <xsl:text>C</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'Other' ">
+                                        <xsl:text>O</xsl:text>
+                                      </xsl:when>
+                                     <xsl:when test="$Marital = 'Separated' ">
+                                        <xsl:text>P</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'Single' ">
+                                        <xsl:text>S</xsl:text>
+                                      </xsl:when>
+                                        <xsl:when test="$Marital = 'Unknown' ">
+                                        <xsl:text>P</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'CivilUnionRegisteredDomesticPartner' ">
+                                        <xsl:text>V</xsl:text>
+                                      </xsl:when>
+                                    <xsl:when test="$Marital = 'Widowed' ">
+                                        <xsl:text>W</xsl:text>
+                                      </xsl:when>
+                                  </xsl:choose>
+                              </MaritalStatusCd>
+       
+             <OccupationClassCd> <xsl:value-of select="normalize-space(PersonInfo/Occupation)"/></OccupationClassCd>
+                   <xsl:if test="PersonInfo/OccupationLength !=''">
+                  <LengthTimeCurrentOccupation>
+                    <NumUnits>
+                      <xsl:value-of select="PersonInfo/OccupationLength"/>
+                    </NumUnits>
+                  </LengthTimeCurrentOccupation>
+                </xsl:if>
+              <!--<LengthTimeCurrentOccupation>
+                <NumUnits><xsl:value-of select="normalize-space(PersonInfo/OccupationLength)"/></NumUnits>
+              </LengthTimeCurrentOccupation>-->
+                  <EducationLevelCd>
+                  <xsl:choose>
+                    <xsl:when
+                        test="normalize-space(PersonInfo/Education)= 'OtherProfessionalDegree'">
+                      <xsl:text>ThreeYearsCollegeNoDegree</xsl:text>
+                    </xsl:when>
+                    <xsl:when
+                        test="normalize-space(PersonInfo/Education)= 'OtherNonProfessionalDegree'">
+                      <xsl:text>TwoYearsCollegeNoDegree</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                      <xsl:value-of select="PersonInfo/Education"/>
+                    </xsl:otherwise>
+                  </xsl:choose>
+                </EducationLevelCd>
+                 <MilitaryServiceInfo>
+                    <MilitaryRankDesc><xsl:value-of select="normalize-space(PersonInfo/Military)"/></MilitaryRankDesc>
+                  </MilitaryServiceInfo>
+                  <RelationshipToApplicantCd>
+                    <xsl:variable name="RelatopnToApp" select="normalize-space(PersonInfo/Relationship)"/>
+                       <xsl:choose>
+  <xsl:when test="$RelatopnToApp='Self' or $RelatopnToApp='Insured'">
+                         <xsl:text>IN</xsl:text>
+                         </xsl:when>
+                         <xsl:when test="$RelatopnToApp='Co-Insured'">
+                         <xsl:text>CO</xsl:text>
+                         </xsl:when>
+                         <xsl:when test="$RelatopnToApp='Spouse'">
+                         <xsl:text>SP</xsl:text>
+                        </xsl:when> 
+                          <xsl:when test="$RelatopnToApp='Parent'">
+                         <xsl:text>PA</xsl:text>
+                        </xsl:when>
+                          <xsl:when test="$RelatopnToApp='Sibling'">
+                         <xsl:text>BS</xsl:text>
+                        </xsl:when>
+                          <xsl:when test="$RelatopnToApp='Child'">
+                         <xsl:text>CH</xsl:text>
+                        </xsl:when>
+                        <xsl:when test="$RelatopnToApp='Grandparent'">
+                         <xsl:text>RR</xsl:text>
+                        </xsl:when>
+                         <xsl:when test="$RelatopnToApp='Grandchild'">
+                         <xsl:text>AI</xsl:text>
+                        </xsl:when>
+                          <xsl:when test="$RelatopnToApp='Other'">
+                         <xsl:text>OT</xsl:text>
+                        </xsl:when>
+                     </xsl:choose>
+
+                  </RelationshipToApplicantCd>
+                </PersonInfo>
+                <PrincipalInfo>
+                  <CreditScoreInfo>
+                    <CSReasonDesc><xsl:value-of select="normalize-space(PersonInfo/SelfCreditRating)"/></CSReasonDesc>
+                  </CreditScoreInfo>
+                </PrincipalInfo>
+              </InsuredOrPrincipalInfo>
+            </InsuredOrPrincipal>
+                <!-- Add per Insurance Express -->
+            <xsl:if test="RequestorInfo !=''">
+              <RequestorInfo>
+                <FirstName>
+                  <xsl:value-of select="normalize-space(RequestorInfo/Name)"/>
+                </FirstName>
+                <Email>
+                  <xsl:value-of select="normalize-space(RequestorInfo/Email)"/>
+                </Email>
+                <Phone>
+                  <xsl:value-of select="normalize-space(RequestorInfo/Phone)"/>
+                </Phone>
+                <ReqID>
+                  <xsl:value-of select="normalize-space(RequestorInfo/RequestorID)"/>
+                </ReqID>
+              </RequestorInfo>
+            </xsl:if>
+            <PersPolicy>
+              <LOBCd>HOME</LOBCd>
+               <xsl:if test="InsuranceInfo/CurrentlyInsured = 'Yes'">
+              <OtherOrPriorPolicy>
+                <PolicyCd>Prior</PolicyCd>
+                <LOBCd>HOME</LOBCd>
+                <InsurerName>
+                  <xsl:choose>
+                    <xsl:when test="normalize-space(InsuranceInfo/CurrentInsurerName)!=''">
+                      <xsl:value-of select="normalize-space(InsuranceInfo/CurrentInsurerName)"/>
+                    </xsl:when>
+                    <xsl:otherwise>Other</xsl:otherwise>
+                  </xsl:choose>
+                </InsurerName>
+                 <OriginalInceptionDt></OriginalInceptionDt><!--Not found in the HomeRate xml(source) file-->
+                  <xsl:if test="InsuranceInfo/CurrentMonthsWithInsurer !=''">
+                  <LengthTimeWithPreviousInsurer>
+                    <NumUnits>
+                      <xsl:value-of select="InsuranceInfo/CurrentMonthsWithInsurer"/>
+                    </NumUnits>
+                    <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </LengthTimeWithPreviousInsurer>
+                    <PolicyAmt>
+                  <Amt></Amt><!--Not found in the HomeRate xml(source) file-->
+                </PolicyAmt>
+                </xsl:if>
+                <CancelDeclineDt>
+                  <xsl:value-of select="substring(InsuranceInfo/CurrentPolicyExpirationDt/text(),1,10)"/>
+                </CancelDeclineDt>
+              </OtherOrPriorPolicy>
+            </xsl:if>
+         
+              <PersApplicationInfo>
+              <ResidenceOwnedRentedCd>
+                  <xsl:choose>
+                  <xsl:when
+                    test="normalize-space(ResidenceInfo/ResidenceType) ='Own' or normalize-space(ResidenceInfo/ResidenceStatus) ='Own' or normalize-space(ResidenceInfo/ResidenceType) ='Owner' or normalize-space(ResidenceInfo/ResidenceStatus) ='Owner'">
+                    <xsl:text>OWNED</xsl:text>
+                  </xsl:when>
+                  <xsl:when
+                    test="normalize-space(ResidenceInfo/ResidenceType) ='Rent' or normalize-space(ResidenceInfo/ResidenceStatus) ='Rent' or normalize-space(ResidenceInfo/ResidenceType) ='Renter' or normalize-space(ResidenceInfo/ResidenceStatus) ='Renter'">
+                    <xsl:text>RENTD</xsl:text>
+                  </xsl:when>
+                  <xsl:when
+                    test="normalize-space(ResidenceInfo/ResidenceType) ='LiveWithParents' or normalize-space(ResidenceInfo/ResidenceStatus) ='LiveWithParents'">
+                    <xsl:text>RENTD</xsl:text>
+                  </xsl:when>
+                  <xsl:when
+                    test="normalize-space(ResidenceInfo/ResidenceType) ='Dormitory' or normalize-space(ResidenceInfo/ResidenceStatus) ='Dormitory'">
+                    <xsl:text>RENTD</xsl:text>
+                  </xsl:when>
+                </xsl:choose>
+              </ResidenceOwnedRentedCd>
+                
+         
+                   <ResidenceTypeCd>
+                            <xsl:choose>
+                  <xsl:when
+                         test="normalize-space(ResidenceInfo/ResidenceType) ='LiveWithParents' or normalize-space(ResidenceInfo/ResidenceStatus) ='LiveWithParents'">
+                    <xsl:text>DW</xsl:text>
+                  </xsl:when>
+                  <xsl:when
+                         test="normalize-space(ResidenceInfo/ResidenceType) ='Dormitory' or normalize-space(ResidenceInfo/ResidenceStatus) ='Dormitory'">
+                    <xsl:text>CO</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='SingleFamilyHome'">
+                    <xsl:text>DW</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='Apartment'">
+                    <xsl:text>APT</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='MultiFamilyHome'">
+                    <xsl:text>CO</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='Townhome'">
+                    <xsl:text>TH</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='Rowhouse'">
+                    <xsl:text>RH</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='Condo'">
+                    <xsl:text>CD</xsl:text>
+                  </xsl:when>
+                  <xsl:when test="ResidenceInfo/ResidenceType ='MobileHome'">
+                    <xsl:text>MH</xsl:text>
+                  </xsl:when>
+                  <xsl:otherwise>OTH</xsl:otherwise>
+                </xsl:choose>
+                  </ResidenceTypeCd>
+                         
+               <LengthTimeCurrentAddr>
+                  <DurationPeriod>
+                   <NumUnits> <xsl:value-of select="/HomeRate/ResidenceInfo/CurrentResidenceLength"/></NumUnits>
+                   <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </DurationPeriod>
+               </LengthTimeCurrentAddr>
+               <LengthTimePreviousAddr>
+                  <DurationPeriod>
+                    <NumUnits> <xsl:value-of select="/HomeRate/ResidenceInfo/PreviousResidenceLengthMonths"/></NumUnits>
+                    <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </DurationPeriod>
+               </LengthTimePreviousAddr>
+              </PersApplicationInfo>
+
+              <xsl:if test="Claims/Claim !=''">
+            <xsl:for-each select="/Claim">
+              <PropertyLossInfo>
+                <xsl:attribute name="id">
+                  <xsl:value-of select="concat('CL',Id)"/>
+                </xsl:attribute>
+                <LossKindCd>
+                  <xsl:choose>
+                    <xsl:when test="Type ='Fire or or FIRE or Lightning'">
+                      <xsl:text>FireLight</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Windstorm or Hail'">
+                      <xsl:text>WindHail</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='IceSnowSleet'">
+                      <xsl:text>Ice</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Smoke Damage'">
+                      <xsl:text>Smoke</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Water Damage'">
+                      <xsl:text>Water</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Flood'">
+                      <xsl:text>FLOOD</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Windstorm'">
+                      <xsl:text>WNDST</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="Type ='Vandalism'">
+                      <xsl:text>VAND</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                      <xsl:value-of select="Type"/>
+                    </xsl:otherwise>
+                  </xsl:choose>
+                </LossKindCd>
+                <ProbableIncurredAmt>
+                  <xsl:value-of select="DamageAmt"/>
+                </ProbableIncurredAmt>
+                <LossDt>
+                  <xsl:value-of select="Date"/>
+                </LossDt>
+              </PropertyLossInfo>
+            </xsl:for-each>
+            </xsl:if>
+              
+     
+              <xsl:if test="Claims !='Claim'">
+              <PropertyLossInfo>
+                <LossKindCd> <xsl:value-of select="normalize-space(Claims/Type)"/></LossKindCd>
+                <ProbableIncurredAmt>
+                  <Amt> <xsl:value-of select="normalize-space(Claims/DamageAmount)"/></Amt>
+                </ProbableIncurredAmt>
+                
+                <LossDt><xsl:value-of select="substring(Claims/Date/text(),1,10)"/></LossDt>
+              </PropertyLossInfo>
+              </xsl:if>
+            </PersPolicy>
+            <Location>
+              <Addr>
+               
+                <AddrTypeCd></AddrTypeCd>
+                <Addr1> <xsl:value-of select="normalize-space(ResidenceInfo/Addr1)"/></Addr1>
+                 <xsl:if test="ResidenceInfo/Addr2 !=''">
+                <Addr2><xsl:value-of select="normalize-space(ResidenceInfo/Addr2)"/></Addr2>
+                </xsl:if>
+                <City><xsl:value-of select="normalize-space(ResidenceInfo/City)"/></City>
+                <StateProvCd><xsl:value-of select="normalize-space(ResidenceInfo/State)"/></StateProvCd>
+                <PostalCode><xsl:value-of select="normalize-space(ResidenceInfo/Zip)"/></PostalCode>
+                <Country><xsl:value-of select="normalize-space(ResidenceInfo/County)"/></Country>
+              </Addr>
+            </Location>
+            <HomeLineBusiness>
+			  <LOBCd>HOME</LOBCd>
+				<Dwell>
+				<PurchaseDt><xsl:value-of select="substring(/HomeRate/Dwelling/PurchaseDate/text(),1,10)"/></PurchaseDt>
+				<PurchasePriceAmt>            
+				<Amt><xsl:value-of select="/HomeRate/Dwelling/PurchasePrice"/></Amt>            
+				<CurCd>USD</CurCd>          
+				</PurchasePriceAmt>
+				<WiringTypeCd><xsl:value-of select="/HomeRate/Dwelling/ElectricWiringType"/></WiringTypeCd>		
+        <AdditionalResidenceInd><xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/OccupiedBy ='Owner'">
+        <xsl:text>1</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/OccupiedBy ='Rental'">
+        <xsl:text>0</xsl:text>                          
+        </xsl:when></xsl:choose></AdditionalResidenceInd>          
+				<DogTypeCd><xsl:value-of select="/HomeRate/Dwelling/DogType"/></DogTypeCd>
+				<AreaTypeSurroundingsCd><xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/WithinCityLimits ='Yes'">
+        <xsl:text>IN</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/WithinCityLimits ='OutsideCityLimits'">
+        <xsl:text>OUt</xsl:text>                          
+        </xsl:when></xsl:choose></AreaTypeSurroundingsCd>
+        <Construction>
+				<ConstructionCd><xsl:value-of select="/HomeRate/Dwelling/ConstructionType"/></ConstructionCd>
+			  <YearBuilt><xsl:value-of select="/HomeRate/Dwelling/YearBulit"/></YearBuilt>
+				<FoundationCd><xsl:value-of select="/HomeRate/Dwelling/ConstructionQuality"/></FoundationCd>
+				<BldgArea>
+				<NumUnits><xsl:value-of select="/HomeRate/Dwelling/SquareFootage"/></NumUnits>
+			  <UnitMeasurementCd>FTK</UnitMeasurementCd>
+			  </BldgArea>
+        <NumStories>
+		    <xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='OneStory'">
+        <xsl:text>1</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='OneandaHalfStory'">
+        <xsl:text>1.5</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='TwoStory'">
+        <xsl:text>2</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='TwoandaHalfStory'">
+        <xsl:text>2.5</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='ThreeStory'">
+        <xsl:text>3</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='Four or More Stories'">
+        <xsl:text>4</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='BiLevel'">
+        <xsl:text>BILEVEL</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='TriLevel'">
+        <xsl:text>TRILEVEL</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='Split-Level'">
+        <xsl:text>SPTLV</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/NumStories ='Other'">
+        <xsl:text>7</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </NumStories>            
+				<RoofingMaterial>
+        <RoofMaterialCd>
+        <xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Asphalt Shingle'">
+        <xsl:text>ASPHS</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Composition Shingle'">
+        <xsl:text>COMP</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Wood Fiber Shingle'">
+        <xsl:text>WF</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Tile/Tile Shingle'">
+        <xsl:text>TILE</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Concrete'">
+        <xsl:text>CONCRETE</xsl:text>
+        </xsl:when>
+        <xsl:when test="Dwelling/Roof ='Metal Roof'">
+        <xsl:text>METL</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Flat Roof'">
+        <xsl:text>FLAT</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Other'">
+        <xsl:text>OT</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/Roof ='Cedar Shake'">
+        <xsl:text>CEDRK</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </RoofMaterialCd>
+       </RoofingMaterial>
+			 <ElectricalPanelCd> 
+        <xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='CircuitBreaker'">
+        <xsl:text>CIRC</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Fuse'">
+        <xsl:text>FUSE</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Other'">
+        <xsl:text>OT</xsl:text>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/ElectricPanelType ='Unknown'">
+        <xsl:text>UN</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+      </ElectricalPanelCd></Construction>				
+      <DwellOccupancy>
+			<NumRooms><xsl:value-of select="/HomeRate/Dwelling/NumRooms"/></NumRooms>
+		  <NumBedrooms><xsl:value-of select="/HomeRate/Dwelling/NumBedrooms"/></NumBedrooms>
+			<DwellUseCd>
+      <xsl:variable name="Use" select="concat('',/HomeRate/Dwelling/Use)"/>
+      <xsl:if test="$Use !=''">              
+      <xsl:choose>
+      <xsl:when test="$Use ='Primary'">
+      <xsl:text>1</xsl:text>
+      </xsl:when>
+      <xsl:when test="$Use ='Secondary/Seasonal'">
+      <xsl:text>3</xsl:text>
+      </xsl:when>
+      <xsl:when test="$Use ='Seasonal'">
+      <xsl:text>4</xsl:text>
+      </xsl:when>
+      <xsl:when test="$Use ='Occasionally Occupied' or $Use='Tenant' or $Use='Occupied'">
+      <xsl:text>8</xsl:text>
+      </xsl:when>
+      <xsl:when test="$Use ='Other'">
+      <xsl:text>OT</xsl:text>
+      </xsl:when>
+      <xsl:when test="$Use ='Used for Farming'">
+      <xsl:text>6</xsl:text>
+      </xsl:when>
+      </xsl:choose>
+      </xsl:if>
+        </DwellUseCd>
+				<OccupancyTypeCd>
+           <xsl:variable name="OccupancyTypeCd" select="concat('',/HomeRate/Dwelling/OccupiedBy)"/>
+      <xsl:if test="$OccupancyTypeCd !=''">              
+      <xsl:choose>
+      <xsl:when test="$OccupancyTypeCd ='Owner'">
+      <xsl:text>OWNER</xsl:text>
+      </xsl:when>
+      <xsl:when test="$OccupancyTypeCd ='Tenant'">
+      <xsl:text>TENAN</xsl:text>
+      </xsl:when>
+      <xsl:when test="$OccupancyTypeCd ='Vacant'">
+      <xsl:text>VACAN</xsl:text>
+      </xsl:when>      
+      </xsl:choose>
+      </xsl:if>    
+          </OccupancyTypeCd>
+				</DwellOccupancy>          
+				<BldgProtection>
+				<DistanceToFireStation>
+        <xsl:variable name="FireStationDistance" select="concat('',/HomeRate/Dwelling/FireStationDistance)"/>
+        <xsl:if test="$FireStationDistance !=''">
+        <NumUnits>
+        <xsl:choose>
+        <xsl:when test="$FireStationDistance ='Within5Miles'">
+        <xsl:text>5</xsl:text>
+        </xsl:when>
+        <xsl:when test="$FireStationDistance ='Within10Miles'">
+        <xsl:text>10</xsl:text>
+        </xsl:when>
+        <xsl:when test="$FireStationDistance ='Over10Miles'">
+        <xsl:text>11</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </NumUnits>
+        </xsl:if>            
+			  <UnitMeasurementCd>Miles</UnitMeasurementCd>
+				</DistanceToFireStation>            
+				<DistanceToHydrant>
+        <xsl:variable name="HydrantDistance" select="concat('',/HomeRate/Dwelling/HydrantDistance)"/>
+        <xsl:if test="$HydrantDistance !=''">
+        <NumUnits>
+        <xsl:choose>
+        <xsl:when test="$HydrantDistance ='Within1000Feet'">
+        <xsl:text>1000</xsl:text>
+        </xsl:when>
+        <xsl:when test="$HydrantDistance ='Over1000Feet'">
+        <xsl:text>1001</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </NumUnits>
+        <UnitMeasurementCd>
+        <xsl:text>Feet</xsl:text>
+        </UnitMeasurementCd>
+        </xsl:if>  	
+			  </DistanceToHydrant>
+				<FireExtinguisherInd> 
+        <xsl:variable name="FireExtinguisher" select="concat('',/HomeRate/Dwelling/FireExtinguisher)"/>
+        <xsl:if test="$FireExtinguisher !=''">            
+        <xsl:choose>
+        <xsl:when test="$FireExtinguisher ='Yes'">
+        <xsl:text>1</xsl:text>
+        </xsl:when>
+        <xsl:when test="$FireExtinguisher='No'">
+        <xsl:text>0</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </xsl:if>
+        </FireExtinguisherInd>            
+			  <ProtectionDeviceBurglarCd></ProtectionDeviceBurglarCd>     
+			  <ProtectionDeviceFireCd><xsl:value-of select="/HomeRate/Dwelling/FireExtinguisher"/></ProtectionDeviceFireCd>
+				<ProtectionDeviceSmokeCd> 
+        <xsl:variable name="SmokeAlarm" select="concat('',/HomeRate/Dwelling/SmokeAlarm)"/>
+        <xsl:if test="$SmokeAlarm !=''">            
+        <xsl:choose>
+        <xsl:when test="$SmokeAlarm ='Yes'">
+        <xsl:text>SMOKE</xsl:text>
+        </xsl:when>
+        <xsl:when test="$SmokeAlarm ='No'">
+        <xsl:text>No</xsl:text>
+        </xsl:when>
+        </xsl:choose>
+        </xsl:if></ProtectionDeviceSmokeCd>
+			  <ProtectionDeviceSprinklerCd>
+        <xsl:value-of select="/HomeRate/Dwelling/SprinklerSystem"/>
+        </ProtectionDeviceSprinklerCd>
+		    </BldgProtection>				
+        <BldgImprovements>
+        <!--Not Found in the source file-->
+				<SubstantialImprovementDt></SubstantialImprovementDt>
+					</BldgImprovements>          
+					<DwellInspectionValuation>
+					<AirConditioningCd><xsl:value-of select="/HomeRate/Dwelling/AirConditioning"/></AirConditioningCd>
+          <xsl:if
+                test="/HomeRate/Dwelling/HotTub='Yes' or /HomeRate/Dwelling/Sauna='Yes' or /HomeRate/Dwelling/WoodStove='Yes' or /HomeRate/Dwelling/SumpPump='Yes'">
+          <BuiltInsInfo>
+          <xsl:if test="/HomeRate/Dwelling/Sauna='Yes'">
+          <BuiltInsCd>Sauna</BuiltInsCd>
+          </xsl:if>
+          <xsl:if test="/HomeRate/Dwelling/HotTub='Yes'">
+          <BuiltInsCd>HotTub</BuiltInsCd>
+          </xsl:if>
+          <xsl:if test="/HomeRate/Dwelling/SumpPump='Yes'">
+          <BuiltInsCd>Sump</BuiltInsCd>
+          </xsl:if>
+          <xsl:if test="/HomeRate/Dwelling/WoodStove='Yes'">         
+          <BuiltInsCd>WBStov</BuiltInsCd> </xsl:if>
+         	<ConstructionQualityCd>	 
+          <xsl:variable name="ConstructionQuality"
+                      select="normalize-space(../HomeRate/Dwelling/ConstructionQuality)"/>
+          <xsl:choose>
+          <xsl:when test="$ConstructionQuality = 'Economical'">
+          <xsl:text>ECONO</xsl:text>
+          </xsl:when>
+          <xsl:when test="$ConstructionQuality = 'Below Average' ">
+          <xsl:text>Min</xsl:text>
+          </xsl:when>
+          <xsl:when test="$ConstructionQuality = 'Excellent' ">
+          <xsl:text>Superior</xsl:text>
+          </xsl:when>
+          <xsl:when test="$ConstructionQuality = 'Good/Manufactured' ">
+          <xsl:text>Basic</xsl:text>
+          </xsl:when>
+          <xsl:when test="$ConstructionQuality = 'Average' or $ConstructionQuality='Average/Standard' ">
+          <xsl:text>STAND</xsl:text>
+          </xsl:when>
+          <xsl:when test="$ConstructionQuality = 'Luxury' ">
+          <xsl:text>LUXURY</xsl:text>
+          </xsl:when>
+          </xsl:choose></ConstructionQualityCd> </BuiltInsInfo>
+          </xsl:if>
+					<BathroomInfo>
+					<NumBathrooms><xsl:value-of select="/HomeRate/Dwelling/NumBathrooms"/></NumBathrooms>
+			  	</BathroomInfo>
+				  <DeckInfo>
+			 		<DeckTypeCd><xsl:value-of select="/HomeRate/Dwelling/Deck"/></DeckTypeCd>
+			  	</DeckInfo>
+				  <ExteriorWallMaterialInfo>
+					<ExteriorWallMaterialCd>
+          <xsl:choose>
+          <xsl:when test="Dwelling/Construction ='Masonry Veneer'">
+          <xsl:text>V</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Mostly Brick'">
+          <xsl:text>Brick</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Mostly Wood Frame'">
+          <xsl:text>Wood</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Mostly Stone'">
+          <xsl:text>Stone</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Aluminum Siding'">
+          <xsl:text>Aluminum</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Vinyl Siding'">
+          <xsl:text>Vinyl</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Veneer'">
+          <xsl:text>V</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Cinder Block'">
+          <xsl:text>Cblock</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Stucco'">
+          <xsl:text>Stucco</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Other'">
+          <xsl:text>OT</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Log'">
+          <xsl:text>L</xsl:text>
+          </xsl:when>
+          <xsl:when test="Dwelling/ExteriorWallType='Aluminum/Vinyl Siding'">
+          <xsl:text>AlumVin</xsl:text>
+          </xsl:when>
+         </xsl:choose>
+        </ExteriorWallMaterialCd>
+	     </ExteriorWallMaterialInfo>
+ 				<FireplaceInfo>
+				<NumFireplaces><xsl:value-of select="/HomeRate/Dwelling/NumFireplaces"/></NumFireplaces>
+			  </FireplaceInfo>
+				<GarageInfo>
+        <xsl:choose>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='NoGarage'">
+        <GarageTypeCd>N</GarageTypeCd>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='Carport'">
+        <GarageTypeCd>CP</GarageTypeCd>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedOneCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>1</AttachedInd>
+        <NumVehs>1</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedTwoCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>1</AttachedInd>
+        <NumVehs>2</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedThreeCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>1</AttachedInd>
+        <NumVehs>3</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='AttachedFourCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>0</AttachedInd>
+        <NumVehs>1</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedOneCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>0</AttachedInd>
+        <NumVehs>1</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedTwoCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>0</AttachedInd>
+        <NumVehs>2</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedThreeCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>0</AttachedInd>
+        <NumVehs>3</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='DetachedFourCar'">
+        <GarageTypeCd>Frame</GarageTypeCd>
+        <AttachedInd>0</AttachedInd>
+        <NumVehs>4</NumVehs>
+        </xsl:when>
+        <xsl:when test="/HomeRate/Dwelling/GarageType ='Other'">
+        <GarageTypeCd>OT</GarageTypeCd>
+        </xsl:when>
+        </xsl:choose>
+        </GarageInfo>
+        <MarketValueAmt>
+				<Amt><xsl:value-of select="/HomeRate/Dwelling/MarketValue"/></Amt>
+				</MarketValueAmt>
+				</DwellInspectionValuation>
+				<QuestionAnswer>
+				<QuestionCd>GENRL15</QuestionCd>
+				<xsl:variable name="Pool" select="concat('',/HomeRate/Dwelling/Pool)"/>
+        <xsl:if test="$Pool !=''">
+        <YesNoCd>
+        <xsl:choose>
+        <xsl:when test="$Pool !=''">
+        <xsl:value-of select="/HomeRate/Dwelling/Pool"/>
+        </xsl:when>
+        </xsl:choose>
+        </YesNoCd>
+        </xsl:if>            
+	    	</QuestionAnswer>
+		    <QuestionAnswer>            
+		  	<QuestionCd>GENRL16</QuestionCd>
+				<xsl:variable name="PoolFence" select="concat('',/HomeRate/Dwelling/PoolFence)"/>
+        <xsl:if test="$PoolFence !=''">
+        <YesNoCd>
+        <xsl:choose>
+        <xsl:when test="$PoolFence !=''">
+        <xsl:value-of select="/HomeRate/Dwelling/PoolFence"/>
+        </xsl:when>
+        </xsl:choose>
+        </YesNoCd>
+        </xsl:if>
+		  	</QuestionAnswer>          
+				<QuestionAnswer>
+				<QuestionCd>GENRL25</QuestionCd>
+				<xsl:variable name="Repossessions" select="concat('',/HomeRate/Dwelling/Repossessions)"/>
+        <xsl:if test="$Repossessions !=''">
+        <YesNoCd>
+        <xsl:choose>
+        <xsl:when test="$Repossessions !=''">
+        <xsl:value-of select="/HomeRate/Dwelling/Repossessions"/>
+        </xsl:when>
+        </xsl:choose>
+        </YesNoCd>
+        </xsl:if>
+			 </QuestionAnswer>
+				<QuestionAnswer>
+				<QuestionCd>GENRL27</QuestionCd>
+			  <YesNoCd>YES</YesNoCd>
+				 </QuestionAnswer>
+				<QuestionAnswer>
+				<QuestionCd>GENRL31</QuestionCd>
+				<xsl:variable name="Trampoline" select="concat('',/HomeRate/Dwelling/Trampoline)"/>
+         <xsl:if test="$Trampoline !=''">
+         <YesNoCd>
+          <xsl:choose>
+          <xsl:when test="$Trampoline !=''">
+          <xsl:value-of select="/HomeRate/Dwelling/Trampoline"/>
+          </xsl:when>
+          </xsl:choose>
+          </YesNoCd>
+          </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+					<QuestionCd>GENRL58</QuestionCd>
+					<xsl:variable name="NewlyPurchased" select="concat('',/HomeRate/Dwelling/NewlyPurchased)"/>
+          <xsl:if test="$NewlyPurchased !=''">
+           <YesNoCd>
+          <xsl:choose>
+          <xsl:when test="$NewlyPurchased !=''">
+          <xsl:value-of select="/HomeRate/Dwelling/NewlyPurchased"/>
+          </xsl:when>
+          </xsl:choose>
+          </YesNoCd>
+          </xsl:if>
+					</QuestionAnswer>   
+					<QuestionAnswer>
+					<QuestionCd>HOME01</QuestionCd><xsl:variable name="BizFarm" select="concat('',/HomeRate/Dwelling/BizFarm)"/>
+          <xsl:if test="$BizFarm!=''">
+          <YesNoCd>
+          <xsl:choose>
+          <xsl:when test="$BizFarm!=''">
+          <xsl:value-of select="/HomeRate/Dwelling/BizFarm"/>
+          </xsl:when>
+          </xsl:choose>
+          </YesNoCd>
+          </xsl:if>
+				 	</QuestionAnswer>          
+					<QuestionAnswer>
+					<QuestionCd>HOME16</QuestionCd>
+					<xsl:variable name="Deadbolts" select="concat('',/HomeRate/Dwelling/Deadbolts)"/>
+          <xsl:if test="$Deadbolts!=''">
+          <YesNoCd>
+          <xsl:choose>
+          <xsl:when test="$Deadbolts!=''">
+          <xsl:value-of select="/HomeRate/Dwelling/Deadbolts"/>
+          </xsl:when>
+          </xsl:choose>
+          </YesNoCd>
+          </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+					<QuestionCd>HOME25</QuestionCd>
+					<xsl:variable name="CarbonMono" select="concat('',/HomeRate/Dwelling/CarbonMono)"/>
+           <xsl:if test="$CarbonMono!=''">
+           <YesNoCd>
+           <xsl:choose>
+           <xsl:when test="$CarbonMono !=''">
+           <xsl:value-of select="/HomeRate/Dwelling/CarbonMono"/>
+           </xsl:when>
+           </xsl:choose>
+           </YesNoCd>
+           </xsl:if>
+					</QuestionAnswer>
+					<QuestionAnswer>
+					<QuestionCd>LC08</QuestionCd>
+					<xsl:variable name="TennisCourt" select="concat('',/HomeRate/Dwelling/TennisCourt)"/>
+          <xsl:if test="$TennisCourt !=''">
+          <YesNoCd>
+          <xsl:choose>
+          <xsl:when test="$TennisCourt !=''">
+          <xsl:value-of select="/HomeRate/Dwelling/TennisCourt"/>
+          </xsl:when>
+          </xsl:choose>
+          </YesNoCd>
+          </xsl:if>
+					</QuestionAnswer>
+					<DwellStateSupplement>
+					<DistanceToBrush>
+					<NumUnits></NumUnits>
+					<UnitMeasurementCd></UnitMeasurementCd>
+					</DistanceToBrush>
+					<SeacoastOrOtherBodyWaterProximityCd>              
+          <xsl:if test="/HomeRate/Dwelling/WaterProximity !='NA' and /HomeRate/Dwelling/WaterProximity !='' ">
+          <SeacoastOrOtherBodyWaterProximityCd>
+          <xsl:choose>
+          <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within1000feet'">
+          <xsl:text>BCH</xsl:text>
+          </xsl:when>
+          <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within1mile'">
+          <xsl:text>S</xsl:text>
+          </xsl:when>
+          <xsl:when test="/HomeRate/Dwelling/WaterProximity ='Within5miles'">
+          <xsl:text>I</xsl:text>
+          </xsl:when>
+          </xsl:choose>
+          </SeacoastOrOtherBodyWaterProximityCd>
+          </xsl:if>
+          </SeacoastOrOtherBodyWaterProximityCd>
+					</DwellStateSupplement>
+					<HeatingUnitInfo>
+          <FuelTypeCd>
+					<xsl:variable name="FuelTypeCd"
+                  select="normalize-space(../HomeRate/Dwelling/HeatingType)"/>
+          <xsl:choose>
+          <xsl:when test="$FuelTypeCd = 'GasForcedAir'">
+          <xsl:text>G</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Boiler' ">
+          <xsl:text>Steam</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'OilCoalKerosene' ">
+          <xsl:text>Oil</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Electric' ">
+          <xsl:text>Electric</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Stove' ">
+          <xsl:text>Pellet</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Propane' ">
+          <xsl:text>Propane</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Other' ">
+          <xsl:text>OT</xsl:text>
+          </xsl:when>
+          <xsl:when test="$FuelTypeCd = 'Diesel' ">
+          <xsl:text>D</xsl:text>
+          </xsl:when>
+          </xsl:choose>
+          </FuelTypeCd>                            
+					</HeatingUnitInfo>
+					 <xsl:if
+             test="/HomeRate/Dwelling/FloodPlainType !='' and /HomeRate/Dwelling/FloodPlainType !='NA'">
+          <FloodInfo>
+          <RatingTypeCd>
+          <xsl:choose>
+          <xsl:when test="/HomeRate/Dwelling/FloodPlainType ='LocatedInDesignatedFloodPlain'">
+          <xsl:text>P</xsl:text>
+          </xsl:when>
+          <xsl:when test="/HomeRate/Dwelling/FloodPlainType ='ProneToFlooding'">
+          <xsl:text>S</xsl:text>
+          </xsl:when>
+          </xsl:choose>
+          </RatingTypeCd>
+          </FloodInfo>
+          </xsl:if>
+					<RoofConditionCd></RoofConditionCd>
+			  	</Dwell>
+			  	<Coverage>
+					<CoverageCd></CoverageCd>
+					<Limit>
+					<FormatInteger></FormatInteger>
+					</Limit>
+					<Deductible>
+					<FormatInteger></FormatInteger>
+					</Deductible>
+				  </Coverage>
+			  	<Coverage>
+					<CoverageCd></CoverageCd>
+					<Limit>
+					<FormatInteger></FormatInteger>
+					</Limit>
+			   	</Coverage>
+		    	</HomeLineBusiness>
+        </HomePolicyQuoteInqRq>
+        </InsuranceSvcRq>
+      
+  </LeadCloud>
+
+      
+
+
+  </xsl:template>
+
+</xsl:stylesheet>
+
+
+
+
+
+
+
+
+
+						OUTFUT FILE
+
+
+
+
+ <LeadCloud>
+    <RequestDt>
+          
+              2019-10-09T03:12:33
+            
+        </RequestDt>
+   <SchemaVersion>2.0</SchemaVersion>
+    <TCPAInfo>
+       <RequestDt>2019-10-09T03:12:33</RequestDt> 
+       <Browser>Mozilla/5.0 compatible MSIE 10.0 Windows NT 6.1</Browser> 
+       <SubmissionURL>www.leadcloud.us</SubmissionURL> 
+       <ConsentLanguage>This is the TCPA consent language from the submission form.</ConsentLanguage> 
+      <SessionId />
+       <ConsumerSourceIP>127.0.0.1</ConsumerSourceIP> 
+   </TCPAInfo>
+   <SignonRq>
+     <ClientDt>
+        <RequestDt>
+          
+              2019-10-09T03:12:33
+            
+        </RequestDt>
+     </ClientDt>
+      <CustLangPref>ENG</CustLangPref>
+      <ClientApp>
+        <Org>LeadCloud</Org>
+         <Name>Home</Name>
+         <Version>1.00</Version>
+         <SourceIP>  string</SourceIP>
+        
+          
+           <UniversalLeadID>
+              
+                  92539a0d-1d2c-4176-9608-4645bfaf90e7
+                
+            </UniversalLeadID>
+          
+          
+           
+            <SellerCampaignSubSource> A09873</SellerCampaignSubSource>
+          
+          
+            <SellerLeadPrice> 0</SellerLeadPrice>
+          
+        
+          
+       </ClientApp>
+       </SignonRq>
+
+       <InsuranceSvcRq>
+           <RqUID />
+          <HomePolicyQuoteInqRq>
+            <RqUID />
+            <TransactionRequestDt>
+                   
+              2019-10-09"
+            
+            </TransactionRequestDt>
+            <CurCd>USD</CurCd>
+            <Producer>
+              <ItemIdInfo>
+                <InsurerId />
+              </ItemIdInfo>
+            </Producer>
+            <InsuredOrPrincipal>
+              <GeneralPartyInfo>
+                <NameInfo>
+                  <PersonName>
+                   <Surname>Doe</Surname>
+                   <Firstname>John</Firstname>
+                  </PersonName>
+                </NameInfo>
+                <Addr>
+                   <AddrTypeCd />
+                   <Addr1>3712 Park Overlook Ct</Addr1>
+                   
+                   <Addr2>string</Addr2>
+                   
+                    <City>Ellicott City</City>
+                   <StateProvCd>Maryland</StateProvCd>
+                   <PostalCode>21042</PostalCode>
+                   <Country>Howard</Country>
+                </Addr>
+                <Communications>
+                  
+                  
+                  
+                  
+                  
+                    
+                           <PhoneInfo>
+                                <PhoneTypeCd>Business</PhoneTypeCd>
+                                <PhoneNumber>
+                                  
+                                         +1-855-5323256+100
+                                            
+                                  </PhoneNumber>
+                             </PhoneInfo>
+                    
+                    
+                    <PhoneInfo>
+                        <PhoneTypeCd>DayPhone</PhoneTypeCd>
+                        <PhoneNumber>+1-410-5550003
+                                   
+                        </PhoneNumber>
+                    </PhoneInfo>
+                    
+                    
+                        <PhoneInfo>
+                            <PhoneTypeCd>Home</PhoneTypeCd>
+                            <PhoneNumber> +1-410-5550001
+                            </PhoneNumber>
+                     </PhoneInfo>
+                    
+                        
+                  
+                   
+                            <PhoneInfo>
+                                <PhoneTypeCd>Fax</PhoneTypeCd>
+                                <PhoneNumber>
+                                      410-5550004
+                                </PhoneNumber>
+                            </PhoneInfo>
+                        
+           
+                    <EmailInfo>
+                        <EmailAddr> support@leadcloud.us</EmailAddr>
+                    </EmailInfo>
+                   
+                  <WebsiteInfo>
+                    <WebsiteURL>
+                      string
+                    </WebsiteURL>
+                  </WebsiteInfo>
+                
+                  </Communications>
+              </GeneralPartyInfo>
+               <InsuredOrPrincipalInfo>
+                <PersonInfo>
+                  <GenderCd>
+                    M
+              </GenderCd>
+                  <BirthDt>1970-01-01</BirthDt>
+                   
+                              <MaritalStatusCd>
+                                  
+                                        S
+                                      
+                              </MaritalStatusCd>
+       
+             <OccupationClassCd> ADM</OccupationClassCd>
+                   
+                  <LengthTimeCurrentOccupation>
+                    <NumUnits>
+                      3
+                    </NumUnits>
+                  </LengthTimeCurrentOccupation>
+                
+              
+                  <EducationLevelCd>
+                  
+                      BachelorsDegree
+                    
+                </EducationLevelCd>
+                 <MilitaryServiceInfo>
+                    <MilitaryRankDesc>No Military Experience</MilitaryRankDesc>
+                  </MilitaryServiceInfo>
+                  <RelationshipToApplicantCd>
+                     
+                       
+                         IN
+                         
+                  </RelationshipToApplicantCd>
+                </PersonInfo>
+                <PrincipalInfo>
+                  <CreditScoreInfo>
+                    <CSReasonDesc>Average</CSReasonDesc>
+                  </CreditScoreInfo>
+                </PrincipalInfo>
+              </InsuredOrPrincipalInfo>
+            </InsuredOrPrincipal>
+                
+            
+            <PersPolicy>
+              <LOBCd>HOME</LOBCd>
+               
+              <OtherOrPriorPolicy>
+                <PolicyCd>Prior</PolicyCd>
+                <LOBCd>HOME</LOBCd>
+                <InsurerName>
+                  
+                      Farmers Insurance Group
+                    
+                </InsurerName>
+                 <OriginalInceptionDt />
+                  
+                  <LengthTimeWithPreviousInsurer>
+                    <NumUnits>
+                      36
+                    </NumUnits>
+                    <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </LengthTimeWithPreviousInsurer>
+                    <PolicyAmt>
+                  <Amt />
+                </PolicyAmt>
+                
+                <CancelDeclineDt>
+                  2019-10-10T03:12:33
+                </CancelDeclineDt>
+              </OtherOrPriorPolicy>
+            
+         
+              <PersApplicationInfo>
+              <ResidenceOwnedRentedCd>
+                  
+                    OWNED
+                  
+              </ResidenceOwnedRentedCd>
+                
+         
+                   <ResidenceTypeCd>
+                            
+                    DW
+                  
+                  </ResidenceTypeCd>
+                         
+               <LengthTimeCurrentAddr>
+                  <DurationPeriod>
+                   <NumUnits> 18</NumUnits>
+                   <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </DurationPeriod>
+               </LengthTimeCurrentAddr>
+               <LengthTimePreviousAddr>
+                  <DurationPeriod>
+                    <NumUnits> 28</NumUnits>
+                    <UnitMeasurementCd>MON</UnitMeasurementCd>
+                  </DurationPeriod>
+               </LengthTimePreviousAddr>
+              </PersApplicationInfo>
+
+              
+              
+     
+              
+              <PropertyLossInfo>
+                <LossKindCd> FIRE</LossKindCd>
+                <ProbableIncurredAmt>
+                  <Amt> 2500</Amt>
+                </ProbableIncurredAmt>
+                
+                <LossDt>2018-10-09</LossDt>
+              </PropertyLossInfo>
+              
+            </PersPolicy>
+            <Location>
+              <Addr>
+               
+                <AddrTypeCd />
+                <Addr1> 3712 Park Overlook Ct</Addr1>
+                <Addr2>string</Addr2>
+                <City>Ellicott City</City>
+                <StateProvCd />
+                <PostalCode />
+                <County>Howard</County>
+              </Addr>
+            </Location>
+            <HomeLineBusiness>
+              <LOBCd>HOME</LOBCd>
+              <Dwell>
+                <PurchaseDt>2012-04-15</PurchaseDt>
+                <PurchasePriceAmt>
+                  <Amt>269000</Amt>
+                  <CurCd>USD</CurCd>
+                </PurchasePriceAmt>
+                <WiringTypeCd>Aluminum</WiringTypeCd>
+                <AdditionalResidenceInd>1</AdditionalResidenceInd>
+                <DogTypeCd>None</DogTypeCd>
+                <AreaTypeSurroundingsCd>IN</AreaTypeSurroundingsCd>
+                <Construction>
+                  <ConstructionCd>L</ConstructionCd>
+                  <YearBuilt>2012</YearBuilt>
+                  <FoundationCd>Finished</FoundationCd>
+                  <BldgArea>
+                    <NumUnits>1300</NumUnits>
+                    <UnitMeasurementCd>FTK</UnitMeasurementCd>
+                  </BldgArea>
+                  <NumStories>1</NumStories>
+                  <RoofingMaterial>
+                    <RoofMaterialCd>COMP</RoofMaterialCd>
+                  </RoofingMaterial>
+                  <ElectricalPanelCd>CIRC</ElectricalPanelCd>
+                </Construction>
+                <DwellOccupancy>
+                  <NumRooms>8</NumRooms>
+                  <NumBedrooms>4</NumBedrooms>
+                  <DwellUseCd>1</DwellUseCd>
+                  <OccupancyTypeCd>OWNER</OccupancyTypeCd>
+                </DwellOccupancy>
+                <BldgProtection>
+                  <DistanceToFireStation>
+                    <NumUnits>5</NumUnits>
+                    <UnitMeasurementCd>Miles</UnitMeasurementCd>
+                  </DistanceToFireStation>
+                  <DistanceToHydrant>
+                    <NumUnits>1001</NumUnits>
+                    <UnitMeasurementCd>Feet</UnitMeasurementCd>
+                  </DistanceToHydrant>
+                  <FireExtinguisherInd>1</FireExtinguisherInd>
+                  <ProtectionDeviceBurglarCd>CEN</ProtectionDeviceBurglarCd>
+                  <ProtectionDeviceFireCd>FIRE</ProtectionDeviceFireCd>
+                  <ProtectionDeviceSmokeCd>SMOKE</ProtectionDeviceSmokeCd>
+                  <ProtectionDeviceSprinklerCd>SP</ProtectionDeviceSprinklerCd>
+                </BldgProtection>
+                <BldgImprovements>
+                  <SubstantialImprovementDt>2012-01-01</SubstantialImprovementDt>
+                </BldgImprovements>
+                <DwellInspectionValuation>
+                  <AirConditioningCd>HD</AirConditioningCd>
+                  <BuiltInsInfo>
+                    <BuiltInsCd>HotTub</BuiltInsCd>
+                    <BuiltInsCd>Sauna</BuiltInsCd>
+                    <BuiltInsCd>WBStov</BuiltInsCd>
+                    <ConstructionQualityCd>LUXURY</ConstructionQualityCd>
+                  </BuiltInsInfo>
+                  <BathroomInfo>
+                    <NumBathrooms>2</NumBathrooms>
+                  </BathroomInfo>
+                  <DeckInfo>
+                    <DeckTypeCd>Wood</DeckTypeCd>
+                  </DeckInfo>
+                  <ExteriorWallMaterialInfo>
+                    <ExteriorWallMaterialCd>Brick</ExteriorWallMaterialCd>
+                  </ExteriorWallMaterialInfo>
+                  <FireplaceInfo>
+                    <NumFireplaces>1</NumFireplaces>
+                  </FireplaceInfo>
+                  <GarageInfo>
+                    <GarageTypeCd>Frame</GarageTypeCd>
+                    <AttachedInd>1</AttachedInd>
+                    <NumVehs>2</NumVehs>
+                  </GarageInfo>
+                  <MarketValueAmt>
+                    <Amt>375000</Amt>
+                  </MarketValueAmt>
+                </DwellInspectionValuation>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL15</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL16</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL25</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL27</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL31</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>GENRL58</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>HOME01</QuestionCd>
+                  <YesNoCd>NO</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>HOME16</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>HOME25</QuestionCd>
+                  <YesNoCd>YES</YesNoCd>
+                </QuestionAnswer>
+                <QuestionAnswer>
+                  <QuestionCd>LC08</QuestionCd>
+                  <YesNoCd>NO</YesNoCd>
+                </QuestionAnswer>
+                <DwellStateSupplement>
+                  <DistanceToBrush>
+                    <NumUnits>500</NumUnits>
+                    <UnitMeasurementCd>Feet</UnitMeasurementCd>
+                  </DistanceToBrush>
+                  <SeacoastOrOtherBodyWaterProximityCd>I</SeacoastOrOtherBodyWaterProximityCd>
+                </DwellStateSupplement>
+                <HeatingUnitInfo>
+                  <FuelTypeCd>G</FuelTypeCd>
+                </HeatingUnitInfo>
+                <FloodInfo>
+                  <RatingTypeCd>S</RatingTypeCd>
+                </FloodInfo>
+                <RoofConditionCd>E</RoofConditionCd>
+              </Dwell>
+              <Coverage>
+                <CoverageCd>DWELL</CoverageCd>
+                <Limit>
+                  <FormatInteger>425000</FormatInteger>
+                </Limit>
+                <Deductible>
+                  <FormatInteger>1000</FormatInteger>
+                </Deductible>
+              </Coverage>
+              <Coverage>
+                <CoverageCd>PL</CoverageCd>
+                <Limit>
+                  <FormatInteger>425000</FormatInteger>
+                </Limit>
+              </Coverage>
+            </HomeLineBusiness>
+          </HomePolicyQuoteInqRq>
+        </InsuranceSvcRq>
+      
+  </LeadCloud>
+
+
+
+MainProgram(C#)
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml;
+using System.Xml.XPath;
+using System.Xml.Xsl;
+
+namespace HomeRateProcess
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            string source_file = @"C:\Users\Webner\source\repos\HomeRateProcess\HomeRateProcess\source.xml";
+            //string xslt_file = @"D:\Projects Folder\XmlConversion\XmlConversion\ConversionXslt.xslt";
+            string xslt_file = @"C:\Users\Webner\source\repos\HomeRateProcess\HomeRateProcess\HomeRateXslt.xslt";
+            string result_file = @"C:\Users\Webner\source\repos\HomeRateProcess\HomeRateProcess\result.xml";
+
+
+            var settings = new XsltSettings();
+            settings.EnableScript = true;
+
+            XPathDocument xpathdoc = new XPathDocument(source_file);
+
+
+            XslCompiledTransform xslTransform = new XslCompiledTransform();
+
+
+            xslTransform.Load(xslt_file);
+
+            XmlTextWriter xmlTextWriter = new XmlTextWriter(result_file, null);
+            xslTransform.Transform(source_file, xmlTextWriter);
+
+        }
+    }
+}
+
+
+
+      
+
+
+  
+
+
+
+
